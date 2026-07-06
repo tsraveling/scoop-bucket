@@ -1,19 +1,19 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tsraveling/furnace/releases/download/v0.4.1/furnace_0.4.1_windows_amd64.zip",
+            "url": "https://github.com/tsraveling/furnace/releases/download/v0.4.2/furnace_0.4.2_windows_amd64.zip",
             "bin": [
                 "furnace.exe"
             ],
-            "hash": "9f655f4f2f36231fecc4771b6bd2ab511b20b41cdb2ce1a80a19bf63534e76f0"
+            "hash": "11259f3eecff30e1e77d376cbf8becad5fc17f3217e58eeeef9fd60e66c20c61"
         },
         "arm64": {
-            "url": "https://github.com/tsraveling/furnace/releases/download/v0.4.1/furnace_0.4.1_windows_arm64.zip",
+            "url": "https://github.com/tsraveling/furnace/releases/download/v0.4.2/furnace_0.4.2_windows_arm64.zip",
             "bin": [
                 "furnace.exe"
             ],
-            "hash": "4d73e8119b86e6533df34d59374f91287efdf63040f3d89b342215b8c82e8151"
+            "hash": "c0d1639d63756abd24de0127002b9ad215c6a870a52381a472b436004f27e761"
         }
     },
     "homepage": "https://github.com/tsraveling/furnace",
