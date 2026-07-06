@@ -1,0 +1,22 @@
+{
+    "version": "0.4.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tsraveling/furnace/releases/download/v0.4.1/furnace_0.4.1_windows_amd64.zip",
+            "bin": [
+                "furnace.exe"
+            ],
+            "hash": "9f655f4f2f36231fecc4771b6bd2ab511b20b41cdb2ce1a80a19bf63534e76f0"
+        },
+        "arm64": {
+            "url": "https://github.com/tsraveling/furnace/releases/download/v0.4.1/furnace_0.4.1_windows_arm64.zip",
+            "bin": [
+                "furnace.exe"
+            ],
+            "hash": "4d73e8119b86e6533df34d59374f91287efdf63040f3d89b342215b8c82e8151"
+        }
+    },
+    "homepage": "https://github.com/tsraveling/furnace",
+    "license": "GPL-3.0-only",
+    "description": "Terminal-based food tracking app"
+}
