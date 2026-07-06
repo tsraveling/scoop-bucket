@@ -1,19 +1,19 @@
 {
-    "version": "0.2.7",
+    "version": "0.2.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tsraveling/dispositio/releases/download/v0.2.7/dispositio_0.2.7_windows_amd64.zip",
+            "url": "https://github.com/tsraveling/dispositio/releases/download/v0.2.8/dispositio_0.2.8_windows_amd64.zip",
             "bin": [
                 "dispositio.exe"
             ],
-            "hash": "0a11c49e8498fd6a96fe8154ac7ea10686c70e4256ff5e923db39ef730652fe9"
+            "hash": "4879249a6cd20b83b7589c21094fe36ee287edf633e74d69f196afdff87895f8"
         },
         "arm64": {
-            "url": "https://github.com/tsraveling/dispositio/releases/download/v0.2.7/dispositio_0.2.7_windows_arm64.zip",
+            "url": "https://github.com/tsraveling/dispositio/releases/download/v0.2.8/dispositio_0.2.8_windows_arm64.zip",
             "bin": [
                 "dispositio.exe"
             ],
-            "hash": "bf5ab3bdf56461cddf58e1a40caf2266ecec15974945d695d7b79c1a8d5831b7"
+            "hash": "c7fffca31e5317debb2ecd999efc9c8f80b4af512685797b6fd5254fde86723b"
         }
     },
     "homepage": "https://github.com/tsraveling/dispositio",
