@@ -1,0 +1,22 @@
+{
+    "version": "0.2.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tsraveling/dispositio/releases/download/v0.2.6/dispositio_0.2.6_windows_amd64.zip",
+            "bin": [
+                "dispositio.exe"
+            ],
+            "hash": "9ea49d20b62b1597f965eb55f8aeaecb882d4541c4c2274df3a9c5f89c0b5d35"
+        },
+        "arm64": {
+            "url": "https://github.com/tsraveling/dispositio/releases/download/v0.2.6/dispositio_0.2.6_windows_arm64.zip",
+            "bin": [
+                "dispositio.exe"
+            ],
+            "hash": "36e756bfffc4223d8763aa17cd579f311392d513e97793e364e85f84a33579c9"
+        }
+    },
+    "homepage": "https://github.com/tsraveling/dispositio",
+    "license": "GPL-3.0",
+    "description": "Terminal tool for planning large projects in simple markdown"
+}
