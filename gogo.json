@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tsraveling/gogo/releases/download/v0.1.2/gogo_0.1.2_windows_amd64.zip",
+            "bin": [
+                "gogo.exe"
+            ],
+            "hash": "122fc065ea7d45aef31cd633c14c7276417fbf9a74ebe8fc2f33137e4912f932"
+        },
+        "arm64": {
+            "url": "https://github.com/tsraveling/gogo/releases/download/v0.1.2/gogo_0.1.2_windows_arm64.zip",
+            "bin": [
+                "gogo.exe"
+            ],
+            "hash": "d44ce1158aa19399d22028a2d0387481d8e04f4dcbc8c28e8aeb97096d7b704b"
+        }
+    },
+    "homepage": "https://github.com/tsraveling/gogo",
+    "license": "MIT",
+    "description": "Play Go in your terminal — local games and online play on OGS"
+}
